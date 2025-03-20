@@ -1,0 +1,27 @@
+*{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button{
+  background-color: black;
+  color: white;
+  border-radius: 15px;
+  
+}
+.red{
+ background-color: grey;
+ width: 350px;
+ height: 175px;
+}
+.col
+{
+    display: flex;
+}
+div a{
+    background-color: white;
+}  
